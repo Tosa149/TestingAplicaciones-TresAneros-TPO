@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1YJeMCZXfFIugftVfNpO6Ck110VwDyziRpELl2WU852c/
 ### Sprint 5
 https://docs.google.com/document/d/1NWfPMUmMF7zyQlAcRB7JVarq6owGFLFHJcO0xHGDhBU/edit?usp=sharing
 
-### Sprint 6
+### Sprint 6 
 https://docs.google.com/document/d/1pB-DJH9uJ74kDVgsGzKmwLUXIVn1TGBwfSesBFPO9wI/edit?usp=sharing
 
 ### Resumen semanal de Testing
