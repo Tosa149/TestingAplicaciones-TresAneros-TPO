@@ -6,6 +6,13 @@ Nombre del equipo - TresAñeros
 - Lucia Naveira
 - Tomas Sanjiao
 
+### Entrega TP Final 
+https://docs.google.com/document/d/1ngEZA2rUfP1lzUWFoYwRVzYpfN0hyme9qFohtKcM2Fc/edit?usp=sharing
+
+-----------------------------------------------------------------------------------------------------------------------
+
+## Documentacion auxiliar
+
 ### Informe de progreso
 https://docs.google.com/document/d/1q6PxfEKrRRosoas39HMlLbm-CcgNqy9c1OglDogpVmI/edit?usp=sharing
 
